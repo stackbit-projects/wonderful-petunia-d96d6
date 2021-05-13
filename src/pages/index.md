@@ -169,7 +169,7 @@ sections:
 
 
           **[Twitter](https://twitter.com/)**
-        image: images/avatar_5.jpg
+        image: images/4e72e90c45dc3f40e15e1cf2f3d4d2a8.jpg
         image_alt: Speaker 5 photo
         image_position: top
       - title: Linguina Nettlewater
