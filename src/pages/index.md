@@ -163,12 +163,6 @@ sections:
         image_position: top
       - title: Shequondolisa Bivouac
         subtitle: 'Exto, Canada'
-        content: >-
-          Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nunc
-          scelerisque interdum ante. Duis tincidunt id purus sit amet malesuada.
-
-
-          **[Twitter](https://twitter.com/)**
         image: images/4e72e90c45dc3f40e15e1cf2f3d4d2a8.jpg
         image_alt: Speaker 5 photo
         image_position: top
